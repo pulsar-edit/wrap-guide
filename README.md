@@ -1,3 +1,5 @@
+# This repo is now Archived under Pulsar-Edit, as it is now bundled into the core editor [PR#374](https://github.com/pulsar-edit/pulsar/pull/374)
+
 # Wrap Guide package
 
 The `wrap-guide` package places a vertical line in each editor at a certain column to guide your formatting, so lines do not exceed a certain width.
